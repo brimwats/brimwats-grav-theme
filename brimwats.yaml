@@ -1,0 +1,4 @@
+enabled: true
+current_preset: default
+dropdown:
+  enabled: true

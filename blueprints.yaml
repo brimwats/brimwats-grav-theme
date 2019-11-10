@@ -1,0 +1,10 @@
+name: Brimwats
+version: 0.1
+description: "Extending Resumes into Gateway"
+icon: group
+author:
+  name: Brian M. Watson
+  email: bmwatson1989@gmail.com
+  url: http://www.brimwats.com
+dependencies:
+  - { name: grav, version: '>=1.5.10' }
